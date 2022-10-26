@@ -1,3 +1,3 @@
 function add() { 
-    console.log("tuomas-liang");
+    return ("tuomas-liang");
 }
